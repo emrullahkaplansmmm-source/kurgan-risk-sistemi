@@ -1,0 +1,17 @@
+{
+  "name": "kaplan-strateji",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vite": "file:vendor/vite",
+    "react": "file:vendor/react",
+    "react-dom": "file:vendor/react-dom"
+  },
+  "devDependencies": {}
+}
